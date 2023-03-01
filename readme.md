@@ -4,3 +4,4 @@
 hola
 caracola
 adios
+[otro](otro.html)
